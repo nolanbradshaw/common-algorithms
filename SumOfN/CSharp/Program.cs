@@ -18,7 +18,8 @@ namespace CSharp
             Console.WriteLine($"Calculation: {calculateResult} taking {calcExecutionTime} milliseonds.");
             Console.WriteLine($"Loop: {loopResult} taking {loopExecutionTime} milliseconds.");
         }
-
+        
+        // O(1)
         public static long CalculateSum(long n)
         {
             watch.Start();
@@ -28,6 +29,7 @@ namespace CSharp
             return calcSum;
         }
 
+        // O(n)
         public static long LoopForSum(long n)
         {
             watch.Restart();
