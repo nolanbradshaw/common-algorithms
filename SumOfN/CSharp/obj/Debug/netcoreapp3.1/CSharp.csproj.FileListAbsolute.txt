@@ -1,0 +1,13 @@
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\obj\Debug\netcoreapp3.1\CSharp.csprojAssemblyReference.cache
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Development\comparing-common-algorithms\SumOfN\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
