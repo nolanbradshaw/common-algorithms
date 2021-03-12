@@ -60,4 +60,7 @@ def merge_sort(n):
         j += 1 
         k += 1
         
-merge_sort(n.copy())
+    return n
+
+
+print(merge_sort(n[:]))
