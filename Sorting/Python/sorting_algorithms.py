@@ -1,6 +1,6 @@
 import random
 
-list_size = 100000
+list_size = 100
 min_val = 0
 max_val = 1000000
 n = [random.randint(min_val, max_val) for n in range(list_size)]
@@ -9,9 +9,7 @@ def bubble_sort(n):
     for i in range(len(n)):
         for j in range(len(n) - 1):
             if n[j] > n[j + 1]:
-                temp = n[j + 1]
-                n[j+1] = n[j] 
-                n[j] = temp
+                n[j+1], n[j] = n[j], n[j+1]
     return n
 
 def selection_sort(n):
